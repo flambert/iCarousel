@@ -97,7 +97,6 @@ typedef CGSize NSSize;
 #endif
 
 
-#import <QuartzCore/QuartzCore.h>
 #ifdef ICAROUSEL_IOS
 #import <UIKit/UIKit.h>
 #else
